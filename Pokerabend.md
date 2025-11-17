@@ -1,21 +1,86 @@
-# **Definition**
+# 🎲 **Projektarbeit: Planung und Durchführung eines Pokerabends**  
 
-Unser Projekt ist die Planung und Durchführung eines Pokerabends. Wir wollen alles gut organisieren – von den Einladungen über den Ablauf bis zur Verpflegung. Ziel ist es, einen gemütlichen und unterhaltsamen Abend für alle Teilnehmer zu gestalten, bei dem jeder Spaß hat und alles reibungslos funktioniert.
 
-# **Zielsetzung**
 
-Wir möchten einen lustigen und gut organisierten Pokerabend für mindestens zehn Personen planen und durchführen. Der Abend soll bis zum 15. Dezember stattfinden und darf höchstens 100 Euro kosten. Wir sorgen dafür, dass es genug Spielkarten, Chips, Snacks und Getränke gibt und dass alle rechtzeitig informiert sind. Durch gute Vorbereitung und klare Aufgabenverteilung wollen wir sicherstellen, dass der Abend entspannt und erfolgreich verläuft.
 
-# **Projektorganisation**
+<img src="poker.jpeg" alt="Poker" width="1200">
 
-**Die Rollen im Projekt sind:**
+**Projektname:**  
+**💥 „Poker Night – Planung & Organisation eines Spieleabends“ 💥**
 
-**Projektauftraggeber:in:** Die Lehrperson, die das Projekt betreut.
+**Projektteam:**  
+- **Projektleiter:** Rafael Crispin Siegl  
+- **Projektmitarbeiter:** Noel Frey  
+- **Projektmitarbeiter:** Simon Hackl  
 
-**Projektleiter:in:** Rafael Crispin Siegl – er kümmert sich um Planung, Termine und die Koordination.
+**Projektauftraggeber:**  
+Herr Prof. Neuner  
 
-**Projektmitarbeiter:innen:** Noel Frey (Organisation und Kommunikation) und Simon Hackl (Snacks und Dekoration).
+**Kunde:**  
+Teilnehmerinnen und Teilnehmer des Pokerabends  
 
-**Kunde:** Die Teilnehmerinnen und Teilnehmer des Pokerabends.
+**Abgabe:**  
+15. Dezember  
 
-Wir haben uns für eine **Matrix-Organisation** entschieden. Das bedeutet, dass alle eng zusammenarbeiten und sich gegenseitig unterstützen. Aufgaben werden je nach Zeit und Fähigkeit verteilt, während der Projektleiter den Überblick behält. So können wir flexibel arbeiten und sicherstellen, dass das Projekt erfolgreich abgeschlossen wird.
+<div style="page-break-after: always;"></div>
+
+# 📑 **Inhaltsverzeichnis**
+
+1. Projektbeschreibung  
+2. Zielsetzung  
+3. Projektorganisation  
+4. Organisationsform: Matrix-Organisation  
+
+<div style="page-break-after: always;"></div>
+
+# 📘 **Projektbeschreibung**
+
+Unser Projekt beschäftigt sich mit der vollständigen Planung und Umsetzung eines Pokerabends. Dabei sollen alle notwendigen organisatorischen Schritte – von der Einladung über die Vorbereitung der Spielmaterialien bis hin zur Verpflegung – sorgfältig durchdacht und umgesetzt werden.  
+Ziel ist es, einen **gemütlichen, unterhaltsamen und strukturierten Abend** zu gestalten, an dem alle Teilnehmenden Spaß haben und ein reibungsloser Ablauf gewährleistet ist.
+
+---
+
+# 🎯 **Zielsetzung**
+
+Wir wollen bis spätestens **15. Dezember** einen **Pokerabend für mindestens zehn Personen** veranstalten.  
+Das Gesamtbudget beträgt **maximal 100 €**.
+
+Es soll sichergestellt werden, dass:
+
+- ausreichend **Spielkarten**, **Pokerchips** und **Tische** vorhanden sind  
+- genügend **Snacks und Getränke** zur Verfügung stehen  
+- alle Teilnehmer **rechtzeitig informiert** werden  
+- der Ablauf klar geplant ist  
+- Aufgaben sinnvoll verteilt werden, um einen **entspannten und erfolgreichen Abend** zu ermöglichen
+
+---
+
+# 🧩 **Projektorganisation**
+
+### 👤 **Projektauftraggeber**  
+- Herr Professor Neuner
+
+### 🧭 **Projektleiter**  
+- **Rafael Crispin Siegl**  
+  Verantwortlich für Planung, Terminkoordination und den Überblick über alle Arbeitsbereiche.
+
+### 🛠️ **Projektmitarbeiter**  
+- **Noel Frey** → Organisation & Kommunikation  
+- **Simon Hackl** → Snacks & Dekoration
+
+### 🎉 **Kunde**  
+- Teilnehmerinnen und Teilnehmer des Pokerabends
+
+---
+<div style="page-break-after: always;"></div>
+
+# 🗂️ **Organisationsform: Matrix-Organisation**
+
+Wir haben uns für eine **Matrix-Organisation** entschieden.  
+Das bedeutet:
+
+- Zusammenarbeit erfolgt **eng und flexibel**  
+- Aufgaben werden nach **Zeitkapazität und Fähigkeiten** verteilt  
+- Der Projektleiter behält die Übersicht  
+- Teammitglieder unterstützen sich **gegenseitig**, was uns ermöglicht, schnell auf Änderungen zu reagieren  
+- Die matrixartige Struktur hilft uns, das Projekt effizient und zielgerichtet zum Erfolg zu führen
