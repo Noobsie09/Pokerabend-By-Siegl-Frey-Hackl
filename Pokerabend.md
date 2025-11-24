@@ -29,7 +29,9 @@ Teilnehmerinnen und Teilnehmer des Pokerabends
 1. Projektbeschreibung  
 2. Zielsetzung  
 3. Projektorganisation  
-4. Organisationsform: Matrix-Organisation  
+4. Organisationsform: Matrix-Organisation
+5. Projektstruktur-Plan
+6. Gannt - Chart 
 
 <div style="page-break-after: always;"></div>
 
@@ -84,3 +86,21 @@ Das bedeutet:
 - Der Projektleiter behält die Übersicht  
 - Teammitglieder unterstützen sich **gegenseitig**, was uns ermöglicht, schnell auf Änderungen zu reagieren  
 - Die matrixartige Struktur hilft uns, das Projekt effizient und zielgerichtet zum Erfolg zu führen
+
+<div style="page-break-after: always;"></div>
+
+# 🧱 **Projektstrukturplan (PSP)**
+
+Hier wird der Projektstrukturplan dargestellt. Er gliedert das Projekt in übersichtliche Arbeitspakete und Teilbereiche.
+
+
+<img src="projektstrukturplan.png" alt="Gannt" width="1200">
+
+<div style="page-break-after: always;"></div>
+
+
+# 🗓️ **Gantt-Chart**
+
+Das folgende Gantt-Chart zeigt die zeitliche Planung des Projekts.
+
+<img src="GANTT-Diagramm.png" alt="Gannt" width="1200">
