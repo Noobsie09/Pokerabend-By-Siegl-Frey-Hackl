@@ -104,3 +104,18 @@ Hier wird der Projektstrukturplan dargestellt. Er gliedert das Projekt in übers
 Das folgende Gantt-Chart zeigt die zeitliche Planung des Projekts.
 
 <img src="GANTT-Diagramm.png" alt="Gannt" width="1200">
+
+
+# 🔍 **Projektumfeldanalyse**
+
+
+
+<img src="Projektumfeldanalyse.png" alt="pua" width="1200">
+
+
+# ⚠️ **Risikoanalyse**
+
+<img src="Risikoportfolio.png" alt="RPO" width="1200">
+
+
+
