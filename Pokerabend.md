@@ -111,7 +111,7 @@ Das folgende Gantt-Chart zeigt die zeitliche Planung des Projekts.
 
 
 <img src="Projektumfeldanalyse.png" alt="pua" width="1200">
-
+<div style="page-break-after: always;"></div>
 
 # ⚠️ **Risikoanalyse**
 
