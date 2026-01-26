@@ -34,6 +34,7 @@ Teilnehmerinnen und Teilnehmer des Pokerabends
 6. Gannt - Chart 
 7. Projektumfeldanalyse
 8. Risikoanalyse
+9. User Storys
 
 <div style="page-break-after: always;"></div>
 
@@ -98,19 +99,19 @@ Hier wird der Projektstrukturplan dargestellt. Er gliedert das Projekt in übers
 
 <img src="projektstrukturplan.png" alt="Gannt" width="1200">
 
-<div style="page-break-after: always;"></div>
-
 
 # 🗓️ **Gantt-Chart**
 
 Das folgende Gantt-Chart zeigt die zeitliche Planung des Projekts.
 
 <img src="GANTT-Diagramm.png" alt="Gannt" width="1200">
+<div style="page-break-after: always;"></div>
 
 
 # 🔍 **Projektumfeldanalyse**
 
 <img src="Projektumfeldanalyse.png" alt="pua" width="1200">
+<img src="Diagramm.png" alt="pua" width="1200">
 <div style="page-break-after: always;"></div>
 
 # ⚠️ **Risikoanalyse**
@@ -131,6 +132,7 @@ möchte ich einen festen Termin und Ort für den Pokerabend festlegen,
 - Mindestens **75 % der Eingeladenen** haben ihre Teilnahme bestätigt.
 
 ---
+<div style="page-break-after: always;"></div>
 
 ## 2. Spielregeln festlegen (Mitspieler)
 
