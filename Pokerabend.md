@@ -32,6 +32,8 @@ Teilnehmerinnen und Teilnehmer des Pokerabends
 4. Organisationsform: Matrix-Organisation
 5. Projektstruktur-Plan
 6. Gannt - Chart 
+7. Projektumfeldanalyse
+8. Risikoanalyse
 
 <div style="page-break-after: always;"></div>
 
@@ -108,8 +110,6 @@ Das folgende Gantt-Chart zeigt die zeitliche Planung des Projekts.
 
 # 🔍 **Projektumfeldanalyse**
 
-
-
 <img src="Projektumfeldanalyse.png" alt="pua" width="1200">
 <div style="page-break-after: always;"></div>
 
@@ -117,5 +117,43 @@ Das folgende Gantt-Chart zeigt die zeitliche Planung des Projekts.
 
 <img src="Risikoportfolio.png" alt="RPO" width="1200">
 
+#  **User Stories**
 
+## 1. Pokerabend organisieren (Gastgeber)
 
+**Als Gastgeber**  
+möchte ich einen festen Termin und Ort für den Pokerabend festlegen,  
+**damit** alle Freunde rechtzeitig planen können.
+
+### Akzeptanzkriterien
+- Termin und Ort sind mindestens **eine Woche im Voraus** festgelegt.
+- Alle eingeladenen Freunde wurden über **Datum, Uhrzeit und Adresse** informiert.
+- Mindestens **75 % der Eingeladenen** haben ihre Teilnahme bestätigt.
+
+---
+
+## 2. Spielregeln festlegen (Mitspieler)
+
+**Als Mitspieler**  
+möchte ich die Spielregeln vorab kennen,  
+**damit** es während des Pokerabends keine Missverständnisse gibt.
+
+### Akzeptanzkriterien
+- Die Spielvariante (z. B. Texas Hold’em) ist klar definiert.
+- Einsatzhöhe und Buy-in sind vorab kommuniziert.
+- Die Blind-Struktur ist festgelegt und verständlich dokumentiert.
+- Alle Teilnehmer bestätigen, dass sie die Regeln verstanden haben.
+
+---
+
+## 3. Snacks & Getränke organisieren (Teilnehmer)
+
+**Als Teilnehmer**  
+möchte ich Snacks und Getränke gemeinsam abstimmen oder aufteilen,  
+**damit** sich alle wohlfühlen und niemand alles allein organisieren muss.
+
+### Akzeptanzkriterien
+- Es existiert eine Liste mit Snacks und Getränken.
+- Jeder Teilnehmer übernimmt mindestens **einen Beitrag**.
+- Besondere Vorlieben oder Unverträglichkeiten sind berücksichtigt.
+- Zum Start des Pokerabends sind alle zugesagten Snacks und Getränke vorhanden.
