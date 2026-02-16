@@ -117,6 +117,9 @@ Das folgende Gantt-Chart zeigt die zeitliche Planung des Projekts.
 # ⚠️ **Risikoanalyse**
 
 <img src="Risikoportfolio.png" alt="RPO" width="1200">
+<img src="Risikomatrix.png" alt="RPO" width="1200">
+<img src="Heatmap.png" alt="RPO" width="1200">
+
 
 #  **User Stories**
 
