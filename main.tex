@@ -8,6 +8,7 @@
 \usepackage[hidelinks]{hyperref}
 \usepackage{enumitem}
 \usepackage{titlesec}
+\usepackage{float}
 
 \geometry{margin=2.5cm}
 
@@ -18,8 +19,15 @@
     \vspace*{2cm}
     
     {\Huge \textbf{Projektarbeit: Planung und Durchführung eines Pokerabends}}\\[1.5cm]
+
+    \begin{figure}[H]
+        \centering
+        \includegraphics[width=0.55\textwidth]{poker.jpeg}\\[1.5cm]
+        \caption{Poker}
+        \label{fig:Poker}
+    \end{figure}
     
-    \includegraphics[width=0.75\textwidth]{poker.jpeg}\\[1.5cm]
+    
     
     {\Large \textbf{„Poker Night – Planung \& Organisation eines Spieleabends“}}\\[1.5cm]
     
@@ -41,6 +49,8 @@
 \end{titlepage}
 
 \tableofcontents
+\listoffigures
+
 \newpage
 
 \section{Projektbeschreibung}
@@ -106,36 +116,65 @@ Das bedeutet:
 
 Hier wird der Projektstrukturplan dargestellt. Er gliedert das Projekt in übersichtliche Arbeitspakete und Teilbereiche.
 
-\begin{center}
-\includegraphics[width=\textwidth]{projektstrukturplan.png}
-\end{center}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=\textwidth]{projektstrukturplan.png}
+    \caption{Projekstrukturplan}
+    \label{fig:Projekstrukturplan}
+\end{figure}
 
 \section{Gantt-Chart}
 
 Das folgende Gantt-Chart zeigt die zeitliche Planung des Projekts.
 
-\begin{center}
-\includegraphics[width=\textwidth]{GANTT-Diagramm.png}
-\end{center}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=\textwidth]{GANTT-Diagramm.png}
+    \caption{GANTT-Diagramm}
+    \label{fig:GANTT-Diagramm}
+\end{figure}
 
 \newpage
 
 \section{Projektumfeldanalyse}
 
-\begin{center}
-\includegraphics[width=\textwidth]{Projektumfeldanalyse.png}
-\includegraphics[width=\textwidth]{Diagramm.png}
-\end{center}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=\textwidth]{Projektumfeldanalyse.png}
+    \caption{Projektumfeldanalyse}
+    \label{fig:projektumfeldanalyse}
+\end{figure}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=\textwidth]{Diagramm.png}
+    \caption{Projektumfeldanalyse grafisch}
+    \label{fig:projektumfeldanalyse grafisch}
+\end{figure}
 
 \newpage
 
 \section{Risikoanalyse}
 
-\begin{center}
-\includegraphics[width=\textwidth]{Risikoportfolio.png}
-\includegraphics[width=\textwidth]{Risikomatrix.png}
-\includegraphics[width=\textwidth]{Heatmap.png}
-\end{center}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=\textwidth]{Risikoportfolio.png}
+    \caption{Risikoportfolio}
+    \label{fig:risikoportfolio}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=\textwidth]{Risikomatrix.png}
+    \caption{Risikomatrix}
+    \label{fig:risikomatrix}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=\textwidth]{Heatmap.png}
+    \caption{Heatmap}
+    \label{fig:heatmap}
+\end{figure}
 
 \newpage
 
@@ -152,8 +191,6 @@ Das folgende Gantt-Chart zeigt die zeitliche Planung des Projekts.
     \item Alle eingeladenen Freunde wurden über \textbf{Datum, Uhrzeit und Adresse} informiert.
     \item Mindestens \textbf{75 \% der Eingeladenen} haben ihre Teilnahme bestätigt.
 \end{itemize}
-
-\newpage
 
 \subsection{Spielregeln festlegen (Mitspieler)}
 
